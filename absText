@@ -1,15 +1,37 @@
 We present a theoretical study of the optical spin injection, optical current
 injection, and second harmonic generation of two 50\% hydrogenated graphene
-structures: Cwc{16}wc{8}himBHalt and Cwc{16}wc{8}himBHup. Optical spin injection,
-under the incidence of circularly polarized light onto nonmagnetic
-semiconductors, creates spin-polarized electrons in the conduction bands.
-Optical current injection and second-harmonic generation are nonlinear second-
+structures: C$_{16}$H$_{8}$-alt and C$_{16}$H$_{8}$-up. Optical spin
+injection, under the incidence of circularly polarized light onto nonmagnetic
+semiconductors, creates spin-polarized electrons in the conduction bands
+\cite{dyakonovOO84}. Optical current injection\cite{arzatePRB14} and second-
+harmonic generation\cite{loudonOUP00,andersonPRB15} are nonlinear second-
 order effects that are allowed in materials without inversion symmetry. The
-results are calculated in a full electronic band structure scheme within DFT in
-the LDA approximation. Our results show an anisotropic behavior in the optical
-responses of the spin, the current injection and second harmonic generation. We
-obtained maximum absolute magnitudes of the degree of spin polarization of 61\%
-and 64\% for the \emph{alt} and \emph{up} structures, respectively, and it is
-also possible to optically generate an injection current coming mainly from the
-carbon layer on both \emph{alt} and \emph{up} systems. Besides, we found that
-both structures are excellent candidates for second harmonic generation.
+results are calculated in a full electronic band structure scheme within DFT
+in the LDA approximation. Our results show an anisotropic behavior in the
+optical responses of the spin injection, the current injection and second
+harmonic generation. We obtained maximum absolute magnitudes of the degree of
+spin polarization of 61\% and 64\% for the \emph{alt} and \emph{up}
+structures, respectively, and it is also possible to optically generate an
+injection current coming mainly from the carbon layer on both \emph{alt} and
+\emph{up} systems. Besides, we found that both structures are excellent
+candidates for second harmonic generation.
+
+Presentamos un estudio te\'orico de injecci\'on \'optica de spin, inyecci\'on
+\'optica de corriente y generaci\'on de segundo arm\'onico de dos estructuras
+de grafeno hidrogenado al 50\%: C$_{16}$H$_{8}$-alt and C$_{16}$H$_{8}$-up.
+La inyección \'optica de spin, bajo la incidencia de luz circularmenet
+polarizada sobre semiconductores no magn\'eticos, crea electrones con spin
+polarizado en las bandas de conducci\'on\cite{dyakonovOO84}. La inyecci\'on
+\'optica de corriente\cite{arzatePRB14} y la generaci\'on de segundo
+arm\'onico \cite{loudonOUP00,andersonPRB15} son efectos no lineales de
+segundo orden que se presentan en materiales sin inversi\'on de simetr\'ia.
+Los resultados fueron calculados usando un esquema de estructura de bandas
+electrónica completa usando DFT con una aproximaci\'on LDA. Nuestros
+resultados muestran un comportamiento anisotr\'opico en las respuestas
+\'opticas de inyecci\'on de spin, inuyecci\'on de corriente y generaci\'on de
+segundo arm\'onico. Obtuvimos magnituds absolutas m\'aximas del grado de
+polarizaci\'on de spin de 61\% y 64\% para las estructuras \emph{alt} y
+\emph{up}, respectivamente, y adem\'as es posible generar inyecci\'on de
+corriente que proviene principalmente de la capa de carbonos de ambos
+sistemas. Tambi\'en encontramos que ambas estructuras son excelentes
+candidatos para la generaci\'on de segundo arm\'onico.
