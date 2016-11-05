@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{amsmath}
+\pagestyle{empty}
+
+\begin{document}
+\begin{align*}
+\mathcal{D}^{a} (\omega) &= 
+\frac{2 \zeta^{\mathrm{abc}}}
+{\hbar \left( \xi^{\mathrm{bb}} \xi^{\mathrm{cc}} \right)/2}
+\\
+\zeta^{\mathrm{abc}} (\omega) &=
+\frac{i \pi e^{2}}{\hbar^{2}}
+\int \frac{d^{3} k}{8 \pi^{3}}
+\sum_{vcc'} \,' \mathrm{Im} 
+\left[ 
+S^{\mathrm{a}}_{c'c}(\mathbf{k})
+r^{\mathrm{b}}_{vc'}(\mathbf{k}) r^{\mathrm{c}}_{cv}(\mathbf{k}) + 
+\right.
+\\ &
+\left.
+S^{\mathrm{a}}_{cc'}(\mathbf{k})
+r^{\mathrm{b}}_{vc}(\mathbf{k}) r^{\mathrm{c}}_{c'v}(\mathbf{k})
+\right]
+\delta(\omega_{cv} \left(\mathbf{k}) - \omega \right)
+\\
+\xi^{\mathrm{ab}} (\omega) &= 
+\frac{2 \pi e^{2}}{\hbar^{2}}
+\int \frac{d^{3} k}{8 \pi^{3}}
+\sum_{vc} r^{\mathrm{a}}_{vc}(\mathbf{k}) r^{\mathrm{b}}_{cv}(\mathbf{k})
+\delta(\omega_{cv} \left(\mathbf{k}) - \omega \right)
+\end{align*}
+\end{document}

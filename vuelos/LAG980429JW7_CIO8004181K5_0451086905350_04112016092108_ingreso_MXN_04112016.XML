@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="México, D.F." Moneda="MXN" TipoCambio="1.000000" certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAzMDI2NjA5NzEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMjcyMDE2MDJaFw0xODAxMjcyMDE2MDJaMIG7MSAwHgYDVQQDExdMQVRBTSBBSVJMSU5FUyBHUk9VUCBTQTEgMB4GA1UEKRMXTEFUQU0gQUlSTElORVMgR1JPVVAgU0ExIDAeBgNVBAoTF0xBVEFNIEFJUkxJTkVTIEdST1VQIFNBMSUwIwYDVQQtExxMQUc5ODA0MjlKVzcgLyBGRUVKNjkxMTIwRzE3MR4wHAYDVQQFExUgLyBGRUVKNjkxMTIwSERGUlNTMDkxDDAKBgNVBAsTA1BBWDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnL8ZUB0bQyJOWVn+uhaRC0WiQP4VRXrAimkDfQU+iyhmFkt3FeHUNoI2lqE8Oohu2My72H/r/Z5RM/rxO7Zl0MmaDGvdJJKVqwjWDKPE/2t41Zgm5FbqX3/VR4LN1cFD0X632uaCOvh6MwP6d0e/8RKMoMzexZi35cyI8si2o8UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI6MUhMOBYoFpt0EoAWpONzxGlqQhum2MyRwQ7QMtoGyo9wBnAklbIrR10RLpDcRcnCDCWNoiCe5Hp/ZLFI3KFYRaH/uBLyhZuGl3ox95cJRnHoxoLcFaZeajnh65je1/30NtqU9fqnuXB4A0949GWQwBh1dJXIGV2NTX9NCEBWdJO5e7Jecg2zfIBdTBW6C3zPIFeQjzH7HEiu+c7flTaZCVHaLHQ9kxSINmkiGR2uVxYTIr/MtA8RF+nZMG2natrtCPtO507LfIZo8A7i5BvndUe0rFOYRL9kcY43NBbibKTZX0pbrxht9v+20TBcDQPjqde3tasqETcxzq2uJNU8=" fecha="2016-11-04T09:21:08" folio="0451086905350" formaDePago="Pago en una sola exhibición" metodoDePago="99" noCertificado="00001000000302660971" sello="KXdS/BFG9xUPF2CN0l/GOOW/IGT/skd5tDQzPKAAn3gOMKv15hRoj/vLOAnzM3MU57mSIw1AMnJl6LDjrPsn+2a7tMsajPl1R/QSQuJVWYKZqeQJ03z+Ir3Dwjc9bvBiDXWW62hvTkC6TkskwYE+oatIe2h2OB5roKlsT0h/Jps=" subTotal="16822.000000" tipoDeComprobante="ingreso" total="17423.000000" version="3.2" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+    <cfdi:Emisor nombre="LATAM AIRLINES GROUP SA" rfc="LAG980429JW7">
+        <cfdi:DomicilioFiscal calle="IGNACIO RAMIREZ" codigoPostal="06030" colonia="TABACALERA" estado="DISTRITO FEDERAL" localidad="CUAUHTEMOC" municipio="MEXICO" noExterior="20" noInterior="302" pais="MÉXICO"/>
+        <cfdi:ExpedidoEn pais="MEXICO, DF"/>
+        <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="CENTRO DE INVESTIGACIONES EN OPTICA A.C." rfc="CIO8004181K5">
+        <cfdi:Domicilio calle="LOMA DEL BOSQUE" codigoPostal="37150" colonia="LOMAS DEL CAMPESTRE" estado="GUANAJUATO" localidad="LEON" municipio="LEON" noExterior="115" pais="MÉXICO"/>
+    </cfdi:Receptor>
+    
+    
+<cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.0000" descripcion="Tarifa del boleto comprado el día 27/10/16" importe="15016.000000" noIdentificacion="0451086905350" unidad="No aplica" valorUnitario="15016.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="CL" importe="408.000000" unidad="No aplica" valorUnitario="408.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="XD" importe="842.000000" unidad="No aplica" valorUnitario="842.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="ZQ" importe="556.000000" unidad="No aplica" valorUnitario="556.000000"/>
+    </cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="601.000000">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="601.000000" impuesto="IVA" tasa="16.000000"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos><cfdi:Complemento>
+        <aerolineas:Aerolineas TUA="842.000000" Version="1.0">
+            <aerolineas:OtrosCargos TotalCargos="964.000000">
+                <aerolineas:Cargo CodigoCargo="CL" Importe="408.000000"/>
+                <aerolineas:Cargo CodigoCargo="ZQ" Importe="556.000000"/>
+            </aerolineas:OtrosCargos>
+        </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2016-11-04T09:21:18" UUID="EA11041F-4B2D-4488-AFF2-8B5E73130ABD" noCertificadoSAT="00001000000202639096" selloCFD="KXdS/BFG9xUPF2CN0l/GOOW/IGT/skd5tDQzPKAAn3gOMKv15hRoj/vLOAnzM3MU57mSIw1AMnJl6LDjrPsn+2a7tMsajPl1R/QSQuJVWYKZqeQJ03z+Ir3Dwjc9bvBiDXWW62hvTkC6TkskwYE+oatIe2h2OB5roKlsT0h/Jps=" selloSAT="Cr367sH30vPjuxz6SJnN63N+ISsmZr7pvCaLMQquKBHvRe69duiUF7w0P57MqSUOwKFz2AfimnUQ0Q6EfSjVuG9lyN1SnWgbkN0eDQA3zJxX7++dEBZxy3NjCqZpLxjkySgbGSvLTUJKkczbjTiHcdYcolXgUyAVXBeJDp41U0U=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento><cfdi:Addenda>
+        <customized xmlns="http://repository.edicomnet.com/schemas/mx/cfd/addenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://repository.edicomnet.com/schemas/mx/cfd/addenda http://repository.edicomnet.com/schemas/mx/cfd/addenda/customized.xsd">
+            <AEROLINEAS>
+                <TicketNumber>0451086905350</TicketNumber>
+                <IssueDate>27/10/2016</IssueDate>
+                <AgencyCode>86503163</AgencyCode>
+            </AEROLINEAS>
+        </customized>
+    </cfdi:Addenda></cfdi:Comprobante>
