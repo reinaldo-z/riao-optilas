@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="3.2" folio="2519" LugarExpedicion="León" NumCtaPago="No identificado" TipoCambio="1" Moneda="Pesos Mexicanos" fecha="2016-11-16T09:32:48" sello="TXNA2SjIPeYNghZIVJ7jewFUKP5qJl5UREz4enSpBVnK+QylXpoz/Nstn2UA9ThgMlNdAmu/rSPs894mX/sqzx0Dljfla/KcFARvEQEZ4n1KplNvzgRYsNBGsuXEjHitV52gZo++6Ky2KBDHb9IExM4xoF10cWyaF/NoGfDAdbw=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000303968469" certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAzMDM5Njg0NjkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA0MjgyMzA4MTZaFw0xODA0MjgyMzA4MTZaMIG7MSUwIwYDVQQDExxVTElTRVMgS0VGUkVOIFZBWlFVRVogQ0FTVFJPMSUwIwYDVQQpExxVTElTRVMgS0VGUkVOIFZBWlFVRVogQ0FTVFJPMSUwIwYDVQQKExxVTElTRVMgS0VGUkVOIFZBWlFVRVogQ0FTVFJPMRYwFAYDVQQtEw1WQUNVODgwOTIyQTEzMRswGQYDVQQFExJWQUNVODgwOTIySEpDWlNMMDQxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAypfWtpN+r0iRFoATKAkwxWuoewum2GDmr+DAwz5pJkodPNS+10gCUU0BTzyTij2db//a0lrbz4OdGnR1MqQJYcbCx/REqdXjM4KWoMAixrR6ZJRDNZVIGgE3j1pgM6PPPA7JXETxtlYEi66MlVx3N78S68bXT015t9TD9EfTxB0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIS8KTWO+soyA2dvR/tSyFfO34xFXZPm3Eb4N8f8WEnbjZlATRa80gozM0OJ/knQrUPmrLzj9dkQBSsfQFwlTpS9jpBiKD0mtVGqGXRy+ycZ37DEy53sKZ1sl/1ept9JQ/kqQPwpAQr63uWzn87kHUBTq+pqkvBzsrIWpipf3fSCR9wbFFuoVwas7Oa96Sg5AVGK7NIwvKfxeGZ+6/J3G/FeEZSH7UmnmmqEJmSLVwn1yqqvbK9N1yUP0r5CYZgGijZPOfdIllrMmxvrQdsf2j+Bye4xblcn64Vg+vMM65TtyX6VbfjShxmkPNxCjiKq52GRShbr1hkEgnnoqcJOFRI=" subTotal="260.00" total="301.60" metodoDePago="01" tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor rfc="VACU880922A13" nombre="ULISES KEFREN VAZQUEZ CASTRO">
+    <cfdi:DomicilioFiscal calle="Paseo del Sol" noExterior="206" noInterior="C" colonia="Lomas del Sol" localidad="León" municipio="León" estado="Guanajuato" pais="México" codigoPostal="37157" />
+    <cfdi:RegimenFiscal Regimen="Régimen de Incorporación Fiscal." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CIO8004181K5" nombre="CENTRO DE INVESTIGACIONES EN ÓPTICA, A.C.">
+    <cfdi:Domicilio calle="LOMA DEL BOSQUE" noExterior="115" colonia="LOMAS DEL CAMPESTRE" localidad="León" municipio="León" estado="Guanajuato" pais="México" codigoPostal="37150" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="Pieza" noIdentificacion="1" descripcion="IMPRESIÓN PLOTTEO" valorUnitario="260" importe="260.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="41.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="41.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="77F30CDD-2C18-4DE6-BAB9-67221F03FC33" FechaTimbrado="2016-11-16T09:32:50" selloCFD="TXNA2SjIPeYNghZIVJ7jewFUKP5qJl5UREz4enSpBVnK+QylXpoz/Nstn2UA9ThgMlNdAmu/rSPs894mX/sqzx0Dljfla/KcFARvEQEZ4n1KplNvzgRYsNBGsuXEjHitV52gZo++6Ky2KBDHb9IExM4xoF10cWyaF/NoGfDAdbw=" noCertificadoSAT="00001000000202864883" selloSAT="iXuqrBi2EnfV4eYwd2WEcFHzR8qLnCaIZPf9CNMUMqF1rv5mMCGYhs5GQ3fQ8EOL8Z0KEUBBC6vLoMk+VHOPi59yb4j7poz+y1jG/igXRfkzF2CQKEufEcgy870soGeuuZ3k89UCPlYO08+/xMsoLDLa69t6EZorr16pDi/YZSs=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
