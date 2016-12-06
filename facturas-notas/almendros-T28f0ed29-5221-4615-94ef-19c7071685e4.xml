@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="ASUR2" folio="23155" fecha="2016-12-02T18:09:49" sello="E3FuS4aRYoeySQKYwP+UVwqlUknURYZlxa+nGntnoM03X/3tKip5Z0T6IgbisEJT301bMKSA3kbIeTZeA5UUiIJl2MZeNRw7817Ers5tWkXVqEDmNzzWTf9AI2mEGsXPdO0DxSBlCBJJQUdwzu4Rchu5Zq5pNM+fd2Wm39qPFN57BxsRzTTn1x6RnHhoghObj5yRhP3wxQmdBvFDowTYB20w0bRNA2okXt0v1yHfpJT0b2h/XsQqgUvP79BURhLEHhbC30cssyBs3IuLC/h8Wt4Iimyj60XGD8rey6y8vSl6kSBU1WMRGta7KXdbyRdljTdbuhpOKcv5NapvAUZpTw==" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000403985705" certificado="MIIGSDCCBDCgAwIBAgIUMDAwMDEwMDAwMDA0MDM5ODU3MDUwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTYxMDE4MTUwODQ3WhcNMjAxMDE4MTUwODQ3WjCB6DElMCMGA1UEAxMcSU5NT0JJTElBUklBIE9SUkFDQSBTQSBERSBDVjElMCMGA1UEKRMcSU5NT0JJTElBUklBIE9SUkFDQSBTQSBERSBDVjElMCMGA1UEChMcSU5NT0JJTElBUklBIE9SUkFDQSBTQSBERSBDVjElMCMGA1UELRMcSU9SOTMwODMxNkJBIC8gR09NTDgxMTAwNTRLMzEeMBwGA1UEBRMVIC8gR09NTDgxMTAwNUhOTE5OUzAxMSowKAYDVQQLEyFJTk1PQklMSUFSSUEgT1JSQUNBLCBTLkEuIERFIEMuVi4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCIZFVkF00U164zMgS27Z45viDdo6n0enltcm5lrLQPbLu9ScPDADDu0gBjcnsPkgGrSFGXH9jnnLLhWJ53hIvXZa1OCizOg/rERylg/J9ZwVR1P0o5yRMZjugBsNV4GN8V+fQTSLah0VmsSqaaUm90ORlLq87VOP1WaT/f4vZKWLMxGXeO8hTkpkiGjkpKjMyCR2JXi36JnZoaz82JjzsYKOEzypEq5n3X7BsI6viWmyOGx2XbTVTClcHFL3MY5q+3fR3KbyTYPNQYMK540HNVxAxNfsTfHvhk65q6a4zRoOowat1t4vowW2pf8x5IvTJ4PkJP2v9/XPhA+vFGe6dRAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQB6hsncO7Ihol03fam6GyK9wgPJirlAuNHqkHMI6PRwP5A1KQMF6OTIvDKVbxQQcADYncMUayqKoVbegsVsAhCsvl6Sum/7nRoooNZj5dWLPJspgVhLggoiPvUPHbDp9mIgTXSk+8AgHgRjdeRz+YmGbBSROwA8Kn8fZgDLYzhDrb74UUyiv8PHgKOTlWZ3fKcv9zkb+4AljiCwTDOPT8sZMyFOJClE/hPjkKGotkzYjcFCk9xcOJ5JdvRMMTrFxIZwk6+nme42EzutI5J6cQrjCfUVmq/ggu9dkcDVNf0ekjvdjSw4Si3iJb8PrSeAZ4MiHFyDzRoucKOSbHEBr9EYbBI38IEk2KvM84bZ6VsqZbis0uWXzOjtC2KQzS5y35KOR04X13bigmsUhaB7fjW0R+8JrhIlpSbyM+cn7wPT4YhmQQQEwSoQklk4TfHp8CQ2jaCM/UHLXFQ0UiXot7nTH0+i1B6hksaDb1V0Vjqeu8ilKDeFOMYoAaXIw7ATUPK3Ihb1qbjzG1ov/iM7LCTRustrmIWgNjxbyypuMhAUkioVCAa1WPFYRaerEDwxcJfLuvAv6smHj2L7sTe1R5/lUTo/BH7OctdXi5USPZiXuhat7/aaW8H70fV8ZqMPytbxYCGM3GG+vxdz+DUHZBJyZIhwmDm1dLgGQm/N5PzIww==" subTotal="1042.25" descuento="0.00" TipoCambio="1.0000" Moneda="MXN" total="1209.00" tipoDeComprobante="ingreso" metodoDePago="28 Tarjeta de Débito" LugarExpedicion="México, DISTRITRO FEDERAL" MontoFolioFiscalOrig="0.0000">
+  <cfdi:Emisor rfc="IOR9308316BA" nombre="INMOBILIARIA ORRACA, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="HAVRE" noExterior="30" colonia="JUAREZ" localidad="CUAUHTEMOC" municipio="CUAUHTEMOC" estado="DISTRITRO FEDERAL" pais="México" codigoPostal="06600" />
+    <cfdi:ExpedidoEn calle="INSURGENTES SUR" noExterior="1759" colonia="GUADALUPE INN" municipio="Del. ALVARO OBREGON" estado="Edo. CIUDAD DE MÉXICO" pais="México" codigoPostal="01020" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CIO8004181K5" nombre="CENTRO DE INVESTIGACIONES EN OPTICA, A.C.">
+    <cfdi:Domicilio calle="loma del bosque" noExterior="115" colonia="lomas del campestre" localidad="leon" municipio="leon" estado="guanajuato" pais="MX" codigoPostal="37150" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="CONSUMO SEGÚN FOLIO 9314 DE FECHA 18/11/2016" valorUnitario="1042.25" importe="1042.25" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="166.75">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="166.75" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="28f0ed29-5221-4615-94ef-19c7071685e4" FechaTimbrado="2016-12-02T18:12:45" selloCFD="E3FuS4aRYoeySQKYwP+UVwqlUknURYZlxa+nGntnoM03X/3tKip5Z0T6IgbisEJT301bMKSA3kbIeTZeA5UUiIJl2MZeNRw7817Ers5tWkXVqEDmNzzWTf9AI2mEGsXPdO0DxSBlCBJJQUdwzu4Rchu5Zq5pNM+fd2Wm39qPFN57BxsRzTTn1x6RnHhoghObj5yRhP3wxQmdBvFDowTYB20w0bRNA2okXt0v1yHfpJT0b2h/XsQqgUvP79BURhLEHhbC30cssyBs3IuLC/h8Wt4Iimyj60XGD8rey6y8vSl6kSBU1WMRGta7KXdbyRdljTdbuhpOKcv5NapvAUZpTw==" noCertificadoSAT="00001000000300171326" selloSAT="ewoG/hZk3bRfZJDYFwQ8wle38kTVIbLHlF5wMPEc05t2MLvRQpAUuifTz3DxNTcqm/urYCuQmD5De3qcT3wk/RJ60GzOzGjzcA2dkEp9Dgjhr7QFVyVs//0K3awjJIjypAVucAGpnxF/LoOaZhy9cA4kC73Y9gzcew1kgYqHWco=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33ASUR223155">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>123</ecfd:NroAprob>
+            <ecfd:AnoAprob>2011</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>ASUR2</ecfd:Serie>
+            <ecfd:Folio>23155</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2016-12-02T18:09:49</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>28 Tarjeta de Débito</ecfd:MedioPago>
+            <ecfd:MontoFolioFiscalOrig>0.0000</ecfd:MontoFolioFiscalOrig>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>IOR9308316BA</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>INMOBILIARIA ORRACA, S.A. DE C.V.</ecfd:NmbEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>HAVRE</ecfd:Calle>
+              <ecfd:NroExterior>30</ecfd:NroExterior>
+              <ecfd:Colonia>JUAREZ</ecfd:Colonia>
+              <ecfd:Localidad>CUAUHTEMOC</ecfd:Localidad>
+              <ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+              <ecfd:Estado>DISTRITRO FEDERAL</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>INSURGENTES SUR</ecfd:Calle>
+              <ecfd:NroExterior>1759</ecfd:NroExterior>
+              <ecfd:Colonia>GUADALUPE INN</ecfd:Colonia>
+              <ecfd:Municipio>Del. ALVARO OBREGON</ecfd:Municipio>
+              <ecfd:Estado>Edo. CIUDAD DE MÉXICO</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>01020</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>CIO8004181K5</ecfd:RFCRecep>
+            <ecfd:NmbRecep>CENTRO DE INVESTIGACIONES EN OPTICA, A.C.</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>loma del bosque</ecfd:Calle>
+              <ecfd:NroExterior>115</ecfd:NroExterior>
+              <ecfd:Colonia>lomas del campestre</ecfd:Colonia>
+              <ecfd:Localidad>leon</ecfd:Localidad>
+              <ecfd:Municipio>leon</ecfd:Municipio>
+              <ecfd:Estado>guanajuato</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>37150</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.0000</ecfd:FctConv>
+            <ecfd:SubTotal>1042.25</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntImp>166.75</ecfd:MntImp>
+            <ecfd:VlrPagar>1209.00</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>166.75</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>CONSUMO SEGÚN FOLIO 9314 DE FECHA 18/11/2016</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>1042.25</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>1042.25</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2016-12-02T18:03:06</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="IdCertificate">435</ecfd:campoString>
+        <ecfd:campoString name="VlrPalabras">(Un mil doscientos nueve pesos 00/100 M.N.)</ecfd:campoString>
+        <ecfd:campoString name="Fuente">pticket</ecfd:campoString>
+        <ecfd:campoString name="TipoImp">IVA</ecfd:campoString>
+        <ecfd:campoString name="Email">a.bxc@cio.mx</ecfd:campoString>
+        <ecfd:campoString name="MedioPago">28 Tarjeta de Débito</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">Régimen General de ley Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">México, DISTRITRO FEDERAL</ecfd:campoString>
+        <ecfd:campoNumero name="Propinas">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="TotalRef">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="TasaImp">16.00</ecfd:campoNumero>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
